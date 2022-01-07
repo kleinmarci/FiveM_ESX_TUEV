@@ -1,0 +1,52 @@
+
+CREATE TABLE `tuev_types_tuev` (
+	`id` int(11) NOT NULL AUTO_INCREMENT,
+	`label` varchar(255) DEFAULT NULL,
+	`amount` int(11) DEFAULT NULL,
+	`category` int(11) DEFAULT NULL,
+
+	PRIMARY KEY (`id`)
+);
+
+INSERT INTO `tuev_types_tuev` (label, amount, category) VALUES
+	('Test 1',00,0),
+	('Test 2',00,0),
+	('Test 3',00,0),
+	('Test 4',00,0),
+	('Test 5',00,0),
+	('Test 6',00,0),
+	('Test 7',00,0),
+	('Test 8',00,0),
+	('Test 9',00,0),
+	('Test 10',00,0),
+	('Test 1',00,1),
+	('Test 2',00,1),
+	('Test 3',00,1),
+	('Test 4',00,1),
+	('Test 5',00,1),
+	('Test 6',00,1),
+	('Test 7',00,1),
+	('Test 8',00,1),
+	('Test 9',00,1),
+	('Test 10',00,1),
+	('Test 1',00,2),
+	('Test 2',00,2),
+	('Test 3',00,2),
+	('Test 4',00,2),
+	('Test 5',00,2),
+	('Test 6',00,2),
+	('Test 7',00,2),
+	('Test 8',00,2),
+	('Test 9',00,2),
+	('Test 10',00,2),
+	('Test 1',00,3),
+	('Test 2',00,3),
+	('Test 3',00,3),
+	('Test 4',00,3),
+	('Test 5',00,3),
+	('Test 6',00,3),
+	('Test 7',00,3),
+	('Test 8',00,3),
+	('Test 9',00,3),
+	('Test 10',00,3);
+	
