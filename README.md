@@ -18,9 +18,9 @@ Markers gesetzt
 - TÜV Prüfstationen (75%)
 
 - Fraktionsmenü eingefügt
--Fahrzeuginterktion
--Fahrzeugdaten Abfragen
--Mängel eintragen
+- Fahrzeuginterktion
+- Fahrzeugdaten Abfragen
+- Mängel eintragen
 - Mängel Anzeigen
 - Hauptinspektion erteilen(100%)
 
@@ -28,12 +28,12 @@ Markers gesetzt
 - owned_vehicles
 - Hauptinspektion
 
--tuev_reports (zur meldung von Mängeln)
--reason
--plate
--inspector
+- tuev_reports (zur meldung von Mängeln)
+- reason
+- plate
+- inspector
 
--tuev_types_tuev (Mängel nach Kategorien)
--label
--amount
--category
+- tuev_types_tuev (Mängel nach Kategorien)
+- label
+- amount
+- category
